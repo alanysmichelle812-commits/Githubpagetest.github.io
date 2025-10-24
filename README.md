@@ -1,6 +1,5 @@
 # Githubpagetest
 Github page 
-# 👋 GitHub pages test
 
 # 👋 ¡Hola! Soy ALANYS
 
